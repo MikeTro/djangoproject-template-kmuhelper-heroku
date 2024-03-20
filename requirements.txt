@@ -4,7 +4,7 @@ mysqlclient==2.1.1
 whitenoise==6.3.0
 dj_database_url==1.2.0
 psycopg2==2.9.5
-asgiref==3.6.0
+asgiref==
 gunicorn==20.1.0
 requests==2.31.0
 
